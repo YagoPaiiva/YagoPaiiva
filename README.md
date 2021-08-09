@@ -1,4 +1,5 @@
 ### Hi i'm Yago Paiva
+<span style="color:red">some **This is Red Bold.** text</span>
 
 <!--
 **YagoPaiiva/YagoPaiiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
