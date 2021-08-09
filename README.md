@@ -1,19 +1,7 @@
 <p align="left"> 
   Hey, I'm   <strong>Yago paiva! 👋</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
 <a href="https://github.com/YagoPaiiva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopaiiva&theme=dracula&hide_langs_below=1" />
