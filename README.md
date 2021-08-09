@@ -1,5 +1,5 @@
 <p align="left"> 
-  Hi there  <strong>Sua área</strong>.<br>
+  Hey, I'm   <strong>Yago paiva! 👋</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
