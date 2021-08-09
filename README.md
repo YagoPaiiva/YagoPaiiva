@@ -1,5 +1,4 @@
 ### Hi i'm Yago Paiva
-📫 How to reach me: <a href="https://www.linkedin.com/in/yago-paiva-2ab689187/" background-color:#4500FF;">Linkedin</a>
 
 <!--
 **YagoPaiiva/YagoPaiiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
