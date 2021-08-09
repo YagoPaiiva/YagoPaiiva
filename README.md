@@ -15,18 +15,18 @@
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/YagoPaiiva">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagopaiiva&theme=dracula&hide_langs_below=1" />
 </a>
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/YagoPaiiva">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yagopaiiva&show_icons=true&theme=dracula&line_height=27" alt="**Yago Paiva** github stats"/>
 </a>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="paiivayago@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=paiivayago@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/yago-paiva-2ab689187/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yago-paiva-2ab689187/" /></a>
 
   <a href="#" alt="WhatsApp">
