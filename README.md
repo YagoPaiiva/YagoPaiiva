@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi i'm Yago Paiva
 
 <!--
 **YagoPaiiva/YagoPaiiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+📫 How to reach me: paiivayago@gmail.com
 
 Here are some ideas to get you started:
 
